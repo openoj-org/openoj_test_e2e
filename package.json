@@ -1,0 +1,16 @@
+{
+  "name": "test_e2e",
+  "version": "1.0.0",
+  "description": "End to end test for OpenOJ.",
+  "main": "test.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "niehy21",
+  "license": "ISC",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "chromedriver": "^120.0.1",
+    "selenium-webdriver": "^4.16.0"
+  }
+}
